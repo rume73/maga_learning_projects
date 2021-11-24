@@ -7,7 +7,7 @@
 
 ### Сигнатура метода:
 
-int FindMainIndexes(int[] list);
+`int FindMainIndexes(int[] list);`
 
 ### Примеры для отладки
 
